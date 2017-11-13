@@ -7,7 +7,7 @@ Easy to customizable made this plugin supper developer friendly , you can add yo
 ### Classified Maker by http://pickplugins.com
 * [Live Demo!&raquo;](http://www.pickplugins.com/demo/classified-maker/)
 * [Plugin details!&raquo;](http://www.pickplugins.com/item/classified-maker)
-
+* [Documentation!&raquo;](https://www.pickplugins.com/documentation/classified-maker/)
 
 # Tutorials
 
