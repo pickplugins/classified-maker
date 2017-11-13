@@ -9,7 +9,7 @@ Easy to customizable made this plugin supper developer friendly , you can add yo
 * [Plugin details!&raquo;](http://www.pickplugins.com/item/classified-maker)
 
 
-#Tutorials
+# Tutorials
 
 * [Classified Maker - How to install](https://www.youtube.com/watch?v=4jwzy3MNKHA)
 * [Classified Maker - Settings](https://www.youtube.com/watch?v=IzPYlIb6Bbk)
@@ -66,7 +66,7 @@ Use this short-code `[classified_maker_my_account]` to display Account page.
 
 
 
-#Translation
+# Translation
 
 Pluign is transaltion ready , please find the 'en.po' for default transaltion file under 'languages' folder and add your own translation. you can also contribute in translation, please contact us http://www.pickplugins.com/contact/
 
