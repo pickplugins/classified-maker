@@ -61,7 +61,7 @@ Use this short-code `[classified_maker_edit_ads]` to display Edit ads form.
 
 **My Account page**
 
-Use this short-code `[classified_maker_my_account]` to display Account page.
+Use this short-code `[classified_maker_dashboard]` to display Account page.
 
 
 
